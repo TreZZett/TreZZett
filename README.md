@@ -1,5 +1,6 @@
-[## Hi there 👋
-![Image](https://github.com/user-attachments/assets/586f8fd1-ea6d-4b6b-ae8c-513a38c841cd)
+## Hi there 👋
+
+![Image](https://github.com/user-attachments/assets/a40b1e47-aac9-4718-b5e2-dac8a97ce807)
 
 Here are some ideas to get you started:
 
