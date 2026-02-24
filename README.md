@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
 ---
-![Image](https://github.com/user-attachments/assets/fc307f6a-3eb7-45a7-9936-2ba3b2bf0bf2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc307f6a-3eb7-45a7-9936-2ba3b2bf0bf2" width="400"/>
+</p>
 ### 🔭 I’m currently working on
 CSS / HTML project
 
