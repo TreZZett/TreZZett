@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋
+  <img src="[https://github.com/user-attachments/assets/c182f455-c720-4e6c-8a1f-78f159a26c33](https://github.com/user-attachments/assets/fc307f6a-3eb7-45a7-9936-2ba3b2bf0bf2)" width="400"/
+</h1>
 
 ---
 
