@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a40b1e47-aac9-4718-b5e2-dac8a97ce807" width="600"/>
-</p>
-
 ---
 
 ### 🔭 I’m currently working on
@@ -41,4 +37,10 @@ I delete Uma
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6e53cb4-cbbe-4ed1-9d6c-ddc6f5e5d279" width="500"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="PUT_YOUR_MAIN_GIF_HERE" width="600"/>
 </p>
