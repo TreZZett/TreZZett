@@ -1,5 +1,5 @@
 [## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/586f8fd1-ea6d-4b6b-ae8c-513a38c841cd)
 
 Here are some ideas to get you started:
 
