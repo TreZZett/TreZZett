@@ -28,7 +28,6 @@ I delete Uma
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c182f455-c720-4e6c-8a1f-78f159a26c33" width="400"/>
   <img src="https://github.com/user-attachments/assets/7e2a96ce-8a80-4cb0-a7ab-ebba681cef49" width="400"/>
 </p>
 
@@ -44,5 +43,5 @@ I delete Uma
 ---
 
 <p align="center">
-  <img src="PUT_YOUR_MAIN_GIF_HERE" width="600"/>
+  <img src="(https://github.com/user-attachments/assets/a40b1e47-aac9-4718-b5e2-dac8a97ce807" width="600"/>
 </p>
